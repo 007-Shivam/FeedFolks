@@ -17,7 +17,7 @@ The app also includes features to increase public awareness about the causes and
 # Technologies
 
 1. Google Maps API
-2. React Native
+2. Dart
 3. Node.js
 4. Express.js
 
