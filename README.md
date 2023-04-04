@@ -18,8 +18,9 @@ The app also includes features to increase public awareness about the causes and
 
 1. Google Maps API
 2. Dart
-3. Node.js
-4. Express.js
+3. Firebase
+4. Node.js
+5. Express.js
 
 # Contributions
 
