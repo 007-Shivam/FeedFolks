@@ -1,6 +1,6 @@
 # FeedFolks
 
-This Github repository contains the source code for a mobile application designed to assist in feeding people in need. The UI has been created using Figma, a popular design tool that allows for the creation of highly customizable and responsive designs.
+This Github repository contains the prototype for a mobile application designed to assist in feeding people in need. The UI has been created using Figma, a popular design tool that allows for the creation of highly customizable and responsive designs.
 
 The app allows users to easily pin the location of individuals or groups in need of food assistance and sends this information to NGOs and individuals who wish to donate food. The app utilizes Google Maps to accurately pinpoint locations and includes a user-friendly interface for easy navigation and use.
 The app also includes features to increase public awareness about the causes and consequences of hunger and malnutrition. Users can access media campaigns, public education initiatives, and advocacy efforts to learn more about these issues and support policies and programs that address them.
@@ -28,3 +28,9 @@ Contributions to the Food Assistance App repository are welcome and encouraged. 
 # Getting Started
 
 To view the design files, simply navigate to the "FeedFolks" file in this repository. You can download and then open the file in Figma to view the design in action.
+
+# Screenshot
+
+![Cover Page](https://user-images.githubusercontent.com/101915190/229865349-39a9f9e8-0f33-4803-b6a0-32a358b9f79f.png)
+
+For more try the Screenshots folder
