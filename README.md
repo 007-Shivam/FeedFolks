@@ -5,6 +5,8 @@ This Github repository contains the prototype for a mobile application designed 
 The app allows users to easily pin the location of individuals or groups in need of food assistance and sends this information to NGOs and individuals who wish to donate food. The app utilizes Google Maps to accurately pinpoint locations and includes a user-friendly interface for easy navigation and use.
 The app also includes features to increase public awareness about the causes and consequences of hunger and malnutrition. Users can access media campaigns, public education initiatives, and advocacy efforts to learn more about these issues and support policies and programs that address them.
 
+Project Link : [**Figma**](https://www.figma.com/file/zW84q6KV4SkiD8c1c6wtD0/FeedFolks-solution-challenge?type=design&node-id=0-1&t=E1qLwu6maJPQqlAl-0)
+
 My Team Members Included:<br>
 -[**Sumeet Dube**](https://github.com/dsumeet14)<br>
 -[**Ayushi Singh**](https://github.com/ayushisingh65)<br>
